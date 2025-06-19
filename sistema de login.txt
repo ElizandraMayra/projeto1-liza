@@ -1,2 +1,3 @@
 adicione o email
-adicione nome 
+adicione senha
+adicione nome
